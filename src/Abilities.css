@@ -1,0 +1,15 @@
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+  }
+  
+  .heading {
+    text-align: center;
+    color: #333;
+  }
+  
+  .skill-cards {
+    display: flex;
+    justify-content: space-around;
+  }
